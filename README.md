@@ -106,7 +106,7 @@ openpyxl>=3.1
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/lsm-datasets-tesis.git
+git clone https://github.com/valeriaaguilarmeza05-hash/lsm-datasets-tesis.git
 cd lsm-datasets-tesis
 
 # 2. Crear entorno virtual (recomendado)
@@ -190,7 +190,7 @@ Si usas este trabajo en tu investigación, por favor cita:
   year         = {2026},
   institution  = {Facultad de Ingeniería, Arquitectura y Diseño, Universidad Autónoma de Baja California},
   howpublished = {GitHub},
-  url          = {https://github.com/TU_USUARIO/lsm-datasets-tesis}
+  url          = {https://github.com/valeriaaguilarmeza05-hash/lsm-datasets-tesis}
 }
 ```
 
@@ -204,8 +204,8 @@ Este repositorio está bajo la licencia [MIT](LICENSE). Los datasets analizados 
 
 ## ✉️ Contacto
 
-**Valeria Aguilar Meza** · valeria.aguilar98@uabc.edu.mx  
-**Director:** Dr. Everardo Inzunza Gonzalez · einzunza2@uabc.edu.mx
+**Valeria Aguilar Meza** · valeria.aguilar79@uabc.edu.mx  
+**Director:** Dr. Everardo Inzunza Gonzalez ·
 
 Facultad de Ingeniería, Arquitectura y Diseño (FIAD)  
 Universidad Autónoma de Baja California  
