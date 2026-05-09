@@ -1,0 +1,24 @@
+# Dependencias para reproducir los EDAs
+# Instalar con: pip install -r requirements.txt
+
+# Core científico
+numpy>=1.23
+pandas>=1.5
+scipy>=1.10
+scikit-learn>=1.2
+
+# Visualización
+matplotlib>=3.6
+seaborn>=0.12
+
+# Procesamiento de imágenes
+pillow>=9.4
+scikit-image>=0.20
+opencv-python>=4.7
+
+# Excel/Office
+openpyxl>=3.1
+
+# Notebooks (opcional)
+jupyter>=1.0
+ipykernel>=6.0
