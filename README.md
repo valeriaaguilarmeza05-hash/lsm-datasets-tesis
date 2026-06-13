@@ -14,7 +14,7 @@ Repositorio de soporte para la tarea académica **"Búsqueda, caracterización y
 
 ---
 
-## 📋 Resumen
+## Resumen
 
 Este repositorio contiene la caracterización y análisis exploratorio (EDA) de cinco conjuntos de datos públicos relacionados con la Lengua de Señas Mexicana, siguiendo los principios FAIR y el estándar *Datasheets for Datasets* (Gebru et al., 2021). Los datasets cubren tres modalidades complementarias:
 
@@ -24,7 +24,7 @@ Este repositorio contiene la caracterización y análisis exploratorio (EDA) de 
 
 ---
 
-## 🗂️ Datasets caracterizados
+## Datasets caracterizados
 
 | ID | Nombre | Autor | Año | Repositorio | DOI / URL | Licencia |
 |---|---|---|---|---|---|---|
@@ -36,7 +36,7 @@ Este repositorio contiene la caracterización y análisis exploratorio (EDA) de 
 
 ---
 
-## 📁 Estructura del repositorio
+## Estructura del repositorio
 
 ```
 lsm-datasets-tesis/
@@ -85,7 +85,7 @@ lsm-datasets-tesis/
 
 ---
 
-## ⚙️ Requisitos e instalación
+## Requisitos e instalación
 
 ### Dependencias Python
 
@@ -120,7 +120,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Cómo reproducir los EDAs
+## Cómo reproducir los EDAs
 
 Cada notebook es **autónomo y reproducible** con `random_state=42`. Para reejecutar:
 
@@ -139,7 +139,7 @@ Los scripts generan automáticamente:
 
 ---
 
-## 📊 Hallazgos principales del EDA
+## Hallazgos principales del EDA
 
 ### D1 Montesinos
 - **Bimodalidad fotométrica** ($p<10^{-4}$, Shapiro-Wilk): dos condiciones de iluminación distintas
@@ -167,7 +167,7 @@ Los scripts generan automáticamente:
 
 ---
 
-## 🎯 Pipeline propuesto para la tesis
+## Pipeline propuesto para la tesis
 
 ```
 [Captura] → MediaPipe Holistic (543 keypoints) → [LSTM/GRU/Transformer]
@@ -179,7 +179,7 @@ Los scripts generan automáticamente:
 
 ---
 
-## 📚 Cita
+## Cita
 
 Si usas este trabajo en tu investigación, por favor cita:
 
@@ -196,13 +196,13 @@ Si usas este trabajo en tu investigación, por favor cita:
 
 ---
 
-## 📜 Licencia
+## Licencia
 
 Este repositorio está bajo la licencia [MIT](LICENSE). Los datasets analizados conservan sus licencias originales (ver tabla arriba).
 
 ---
 
-## ✉️ Contacto
+## Contacto
 
 **Valeria Aguilar Meza** · valeria.aguilar79@uabc.edu.mx  
 **Director:** Dr. Everardo Inzunza Gonzalez ·
